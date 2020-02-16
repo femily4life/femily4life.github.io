@@ -1,0 +1,72 @@
+body{
+    
+    font-family: 'Roboto', sans-serif;
+}
+
+.geral{
+    margin-left: 2%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    width: 95%;
+    height: 95%;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+  ;
+
+    background: white;
+    border-radius: 5px;
+}
+
+
+.centro{
+    padding-left: 45%;
+    padding-top: 60%;
+    font-size: 40px;
+   
+}
+
+.dtLg{
+    margin-left: 10px;
+}
+.centro3{
+    margin-top: 0px;
+    padding-left: 38%;
+    font-size: 35px;
+}
+
+.centro2{
+    padding-left: 45%;
+    
+}
+
+a{
+    color: grey;
+}
+
+.nome{
+    margin-top: 15%;
+    font-size: 28px;
+}
+
+.navbar2{
+    font-size: 20px;
+    margin-left: 46%;
+}
+
+.test2{
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+nav{
+    -webkit-box-shadow: 3px 6px 10px -2px rgba(161,161,161,1);
+-moz-box-shadow: 3px 6px 10px -2px rgba(161,161,161,1);
+box-shadow: 3px 6px 10px -2px rgba(161,161,161,1);
+}
