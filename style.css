@@ -3,6 +3,12 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+.grid-container{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    
+  }
+
 .geral{
     margin-left: 2%;
     margin-right: 10%;
@@ -26,7 +32,7 @@ body{
 
 .centro{
     padding-left: 45%;
-    padding-top: 60%;
+    padding-top: 30%;
     font-size: 40px;
    
 }
@@ -50,12 +56,12 @@ a{
 }
 
 .nome{
-    margin-top: 15%;
+    margin-top: 9%;
     font-size: 28px;
 }
 
 .navbar2{
-    font-size: 20px;
+    font-size: 17px;
     margin-left: 46%;
 }
 
@@ -70,3 +76,15 @@ nav{
 -moz-box-shadow: 3px 6px 10px -2px rgba(161,161,161,1);
 box-shadow: 3px 6px 10px -2px rgba(161,161,161,1);
 }
+
+.navbarPd{
+    padding: 2px !important;
+}
+
+.texto{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
