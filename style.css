@@ -32,7 +32,7 @@ body{
 
 .centro{
     padding-left: 45%;
-    padding-top: 30%;
+    padding-top: 13%;
     font-size: 40px;
    
 }
@@ -84,7 +84,12 @@ box-shadow: 3px 6px 10px -2px rgba(161,161,161,1);
 .texto{
     font-size: 15px;
     margin-left: 10px;
-    margin-right: 10px;
+    margin-right: 15px;
+    padding-right: 5px;
     margin-top: 10px;
 }
 
+.justifyTexto{
+    text-align:justify;
+    word-spacing:-2px;
+}

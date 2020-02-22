@@ -21,7 +21,7 @@ var lista2019Textos = ['uma bebe comendo temakizito sem saber usar hashi','se re
 ,'oq eh isso vei KKKK','MANO KKKKKKK MEU DUES','um casal ifiano','dedo pra vc, o amor da minha vida s2'];
 
 var lista2018Datas = ['03/05/2018','06/01/2018','06/01/2018','06/12/2018','21/12/2018'];
-var lista2018Textos = ['um nenem no SANE testando um S8','indo fazer a prova do adriano',
+var lista2018Textos = ['um nenem no SANE testando um S8 fazendo bico','indo fazer a prova do adriano',
 'lendo a 1a questao da prova do adriano','#gisele2018','um casal hm kk fotinha num role hm kk'];
 
 function mudar(idMsg,anoFoto){
